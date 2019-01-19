@@ -3,17 +3,18 @@ College Mini Project On Python with Sentiment Analysis
 
 
 ## Installation will updated soon..
-Now just fork this repo
-Install Python and PyQt-4
-Install pip
+
+1. Now just fork this repo
+2. Install Python and PyQt-4
+3. Install pip
 
 Open terminal from the cloned folder
 run
-'''
 
+```
 cd Example_Programs
 python Welcome.py
-'''
+```
 
 Now install needed packages from python debugger
 
