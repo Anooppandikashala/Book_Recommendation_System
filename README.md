@@ -9,7 +9,7 @@ College Mini Project On Python with Sentiment Analysis
 3. Install pip
 
 Open terminal from the cloned folder
-run
+ and run
 
 ```
 cd Example_Programs
