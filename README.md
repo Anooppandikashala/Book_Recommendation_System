@@ -19,3 +19,13 @@ python Welcome.py
 Now install needed packages from python debugger
 
 After installing all required packages, you can run Welcome.py
+
+## Screenshots
+![Screenshot 1](https://github.com/Anooppandikashala/Book_Recommendation_System/blob/master/scr1.png)
+
+![Screenshot 1](https://github.com/Anooppandikashala/Book_Recommendation_System/blob/master/scr2.png)
+
+![Screenshot 1](https://github.com/Anooppandikashala/Book_Recommendation_System/blob/master/scr3.png)
+
+
+
