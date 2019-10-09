@@ -3,13 +3,13 @@ import numpy as np
 
 class vpr(object):
 	def analysis(self,ratinglist):
-		l=len(ratinglist)
-		if (l!=0):
+		len=len(ratinglist)
+		if (len!=0):
 			var=
 			sum1=0
-			for i in range(l):
+			for i in range(len):
 				sum1=sum1+ratinglist[i]
-			avg=sum1/l
+			avg=sum1/len
 			return avg
 		else:
 			return 0
